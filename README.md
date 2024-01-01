@@ -27,7 +27,7 @@
 目前正在努力学习中，探索新技术和提升自己的编程技能。如果你有任何建议或想要分享经验，我会非常乐意听取！
 
 <div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=Jluuno" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=Jluuno&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
 <div align="center">
