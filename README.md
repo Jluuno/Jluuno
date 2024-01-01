@@ -9,7 +9,10 @@
 - 🤔 感谢大家查看我的主页
 - 📫 个人邮箱：Jluuno@163.com
 - 😄 成功是一连串小小努力的堆砌。
+
+  
 关于我
+
 我是Jluuno，一位热爱后端开发的学习者。在这个GitHub空间，你将找到我在编程世界中的一些足迹和学习心得。欢迎探索我的项目和贡献！
 
 
@@ -37,6 +40,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jluuno&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-⚡ 当我不在键盘前编码时，我喜欢...
+⚡ 当我不在键盘前编码时，我喜欢打游戏、看电影、看小说、听歌、跑步、吃饭、睡觉......
 
 感谢访问我的GitHub个人资料！如果有任何问题或建议，请随时联系我。期待与你一同在编程的世界中共同成长！
