@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76C6C&random=false&width=435&lines=%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!" alt="Typing SVG" /></a>
 
+
 你好！👋，欢迎来到Jluuno的空间
 - 🔭 我是一名Java后端开发学习者
 - 🌱 个人博客网站http://139.196.8.210/#/
@@ -9,6 +10,12 @@
 - 😄 成功是一连串小小努力的堆砌。
 关于我
 我是Jluuno，一位热爱后端开发的学习者。在这个GitHub空间，你将找到我在编程世界中的一些足迹和学习心得。欢迎探索我的项目和贡献！
+
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jluuno&theme=dark&hide_border=true" />
+</div>
+
 <span >
 	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
