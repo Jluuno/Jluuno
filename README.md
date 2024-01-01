@@ -12,7 +12,7 @@
 我是Jluuno，一位热爱后端开发的学习者。在这个GitHub空间，你将找到我在编程世界中的一些足迹和学习心得。欢迎探索我的项目和贡献！
 
 
-<span >
+<span align="center">
 	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
