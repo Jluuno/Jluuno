@@ -33,8 +33,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jluuno&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 ⚡ 当我不在键盘前编码时，我喜欢...
 
