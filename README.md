@@ -12,17 +12,11 @@
 我是Jluuno，一位热爱后端开发的学习者。在这个GitHub空间，你将找到我在编程世界中的一些足迹和学习心得。欢迎探索我的项目和贡献！
 
 
-
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jluuno&theme=dark&hide_border=true" />
-</div>
-
 <span >
 	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
-
 
 我的技能
 后端开发: Python, Java, Node.js
@@ -31,6 +25,10 @@
 工具: Git, Docker
 我的学习之路
 目前正在努力学习中，探索新技术和提升自己的编程技能。如果你有任何建议或想要分享经验，我会非常乐意听取！
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jluuno&theme=dark&hide_border=true" />
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jluuno&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
