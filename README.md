@@ -24,7 +24,7 @@
 我的学习之路
 目前正在努力学习中，探索新技术和提升自己的编程技能。如果你有任何建议或想要分享经验，我会非常乐意听取！
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jluuno)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jluuno&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
