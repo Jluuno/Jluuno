@@ -15,10 +15,12 @@
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
 
-it小笑话：
+it小笑话
 
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+
+名人名言
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 我的技能
 后端开发: Python, Java, Node.js
